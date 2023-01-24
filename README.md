@@ -1,2 +1,3 @@
-Requirements.txt contains library numpy, used to perform certain mathematic operations.
-To run intro_to_python.py, do something idk
+Requirements.txt contains library numpy, used to perform certain mathematic operations. If you do not have the library numpy, the python code will automatically import it for you.
+To run this script from the command line, I reccomend downloading the github CLI for ease and assurance that you are actually downloading things to the right place. After that, click the green "code" button on the repository homepage, click the GitHub CLI tab, and copy the path. Paste this path into the command line, and the script will be on its way to your computer. Remember to look for the folder marked "py".
+Now just open the script on your preferred compiler!
