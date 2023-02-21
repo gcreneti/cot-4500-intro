@@ -1,4 +1,4 @@
-import numpy as numpy
+
 mat1 = numpy.array([[1,0,0], [0,1,0], [0,0,1]]) 
 print(mat1)
 print("\n")
